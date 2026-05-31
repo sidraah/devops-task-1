@@ -70,6 +70,7 @@ on:
 * Successful GitHub Actions workflow
 * Docker Hub repository/image
 * vs code project structure
+* docker image build success
 
 ## Learning Outcomes
 Through this task I learned:
@@ -82,11 +83,11 @@ Through this task I learned:
 
 ## Repository Link
 
-
+https://github.com/sidraah/nodejs-demo-app.git
 
 ## Docker Hub Link
 
-
+https://hub.docker.com/repository/docker/sidraah/nodejs-demo-app/tags
 
 ## Conclusion
 
